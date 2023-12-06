@@ -4,8 +4,8 @@ My name is Ricardo Martinelli de Oliveira, I'm based in Sao Paulo, Brazil, and I
 
 - 🔭 I’m currently working on contributing on Kubeflow projects, such as pipelines.
 
-![GitHub followers](https://img.shields.io/github/followers/:rimolive)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:rimolive)
+![GitHub followers](https://img.shields.io/github/followers/rimolive)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rimolive)
 <!--
 **rimolive/rimolive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
