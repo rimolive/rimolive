@@ -4,10 +4,6 @@ My name is Ricardo Martinelli de Oliveira, I'm based in Sao Paulo, Brazil, and I
 
 - 🔭 I’m currently working on contributing on Kubeflow projects, such as pipelines.
 
-<div id="header" align="center">
-  <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-
 ![GitHub followers](https://img.shields.io/github/followers/:rimolive)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:rimolive)
 <!--
