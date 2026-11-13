@@ -8,7 +8,7 @@ My name is Ricardo Martinelli de Oliveira, I'm based in Sao Paulo, Brazil, and I
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 
-[![rimolive's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimolive&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![rimolive's GitHub stats]([https://github-stats-extended.vercel.app](https://github-stats-extended.vercel.app/api?username=rimolive&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats-extended)
 
 <!--
 
